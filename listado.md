@@ -9,6 +9,4 @@
 - Tooltip
 - Ventana modal
 - Carrusel
-- Test pull content 
-- Some content
-- Last line
+- Lista vertical con iconos
