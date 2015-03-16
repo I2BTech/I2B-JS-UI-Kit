@@ -9,3 +9,4 @@
 - Tooltip
 - Ventana modal
 - Carrusel
+- Lista vertical con iconos
