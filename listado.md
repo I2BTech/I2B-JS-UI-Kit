@@ -6,6 +6,7 @@
 - Paginador
 - Acordeon 
 - Elementos de formulario
+	- Select: [Selectric.js](https://github.com/lcdsantos/jQuery-Selectric)
 - Tooltip
 - Ventana modal
 - Carrusel
